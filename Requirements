@@ -1,1 +1,7 @@
 
+
+fastqc
+fastp
+bwa
+samtools
+bcftools
